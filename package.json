@@ -1,0 +1,9 @@
+{
+  "name": "@waff/implemented",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kasper Seweryn <casper@wvffle.net>",
+  "license": "MIT",
+  "repository": "https://github.com/wvffle/implemented",
+  "private": false
+}
